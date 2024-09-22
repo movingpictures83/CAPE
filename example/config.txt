@@ -1,0 +1,2 @@
+Prefix plugins/CAPE/example/
+Plugin CAPE inputfile parameters.txt outputfile output.pdf

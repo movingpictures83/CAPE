@@ -1,0 +1,5 @@
+ped	test.ped
+map	test.map
+pheno	test.pheno
+out	test.csv
+param_file	plink.parameters.yml
